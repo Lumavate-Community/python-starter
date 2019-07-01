@@ -8,7 +8,7 @@ To build the image in Dev mode with the Editor API, run:
 docker build --no-cache --rm -f Dockerfile_Dev -t python-starter:1.0
 ```
 
-To run the container outside of Lumavavte, run:
+To run the container outside of Lumavate, run:
 
 ```
 ./launch-standalone
